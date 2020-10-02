@@ -1,9 +1,7 @@
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/msandfor/10-Easy-Steps?style=for-the-badge)
+
 ![Open-Source](https://img.shields.io/badge/Open%20Source-Good%20First%20Issue-blue?style=for-the-badge)
 ![Licence MIT](https://img.shields.io/github/license/msandfor/10-easy-steps?style=for-the-badge)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=for-the-badge)
 
 <img src="https://github.com/msandfor/10-Easy-Steps/blob/master/assets/HF2020%20Events%201600x400%20Centered.png" alt="banner that says Hacktoberfest">
 
@@ -67,6 +65,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Full Stack Developer Course](https://www.freecodecamp.org/) | Free Code Camp | 3 | I'm doing this one - it's excellent. A bit each day |
 | [Pathway Courses](https://www.codecademy.com/) | Microsoft | 3 | These courses are also very popular |
 | [Basic Web Development Course](https://dash.generalassemb.ly/) | General Assembly | 3 | As it says on the label |
+| [Foundation of Programming 2 (Java)](https://ocw.ui.ac.id/course/view.php?id=47) | Fariz Darari | 3 | Easy to understand slides for learning Programming with Java! |
 | [Learning on the Go](https://www.sololearn.com/) | Solo Learn | 3 | Do little bits on your phone |
 | [Guided Tracks](https://bento.io/) | @JonHMChan | 3 | Take a byte each day |
 | [learn by building a fictional startup](https://upskillcourses.com/) | Upskill | 3 | If you want a story around what you build, start here |
@@ -96,6 +95,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Bea Gandica](https://www.linkedin.com/in/beagandica/) | Nuevo Foundation | 4 | Changing the World at pace |
 | [Heather Downing](https://www.quorralyne.com/) | Okta | 4 | .NET, APIs, Voice and Identity |
 | [Layla Porter](https://twitter.com/LaylaCodesIt) | Twilio | 4 | Twilio .Net Azure Co-host of MK.NET MVP |
+| [Jessica White](https://github.com/wordshaker) |DDD East Midlands | 4 | Microsoft MVP in Developer Technologies, an international speaker and a mentor |
 
 ## Get Involved
 | Name | Author | Step | Comments |  
@@ -129,7 +129,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Syntax FM](https://syntax.fm/) | @wesbos and @stolinski | 7 | Love of Learning |
 | [Programming By Stealth](https://www.podfeet.com/blog/programming-by-stealth) | Podfeet Podcasts | 7 | Love of Learning |
 | [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/) | FreeCodeCamp | 7 | Love of Learning |
-| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning |
+| [Learn To Code With Me](https://learntocodewith.me/podcast/) | Laurence Bradford | 7 | Love of Learning | 
+| [Cod[ish]](https://www.heroku.com/podcasts/codeish) | Heroku | 7 | Love of Learning |
 
 ## Subscribe to Some YouTube Vids
 | Name | Author | Step | Comments |  
@@ -138,7 +139,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 | Love of Learning |
 | [Programming Course by Videos](https://www.youtube.com/user/ProgrammingKnowledge) | Codebind | 8 | Love of Learning |
 | [Free Videos from Programming With Mosh](https://www.youtube.com/c/programmingwithmosh/) | @moshhamedani | 8 | Love of Learning |
-| [Learn in One Video](https://www.youtube.com/user/derekbanas) | Derek Banas | 8 | Love of Learning |
+| [Coders Tape](https://www.youtube.com/c/CodersTape/) | Coders Tape | 8 | Level up your Laravel, PHP and Marketing skills with fresh weekly content |
+
 ## Watch Some Twitch Channels
 | Name | Author | Step | Comments |  
 |------|--------|------------------|----------------|  
@@ -166,6 +168,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [DDD Perth](https://dddperth.com/) | DDDPerth | 10 | Love of Learning |
 | [JSConf](https://jsconf.com/) | JSConf | 10 | Love of Learning |
 | [Github Universe](https://githubuniverse.com/) | Github | 10 | Love of Learning |
+| [Signal Conf](https://signal.twilio.com/) | Twilio | 10 | Twilio’s Annual Customer & Developer Conference |
 
 ## And Then What?
 | Name | Author | Step | Comments |  
@@ -173,7 +176,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Learn You A Haskell](http://learnyouahaskell.com/chapters) | Miran Lipovaca | 10 | A need for more |
 | [The most quirky parts of the JavaScript](https://bonsaiden.github.io/JavaScript-Garden/) | Javascript Garden | 10 | Advice on avoiding common mistakes |
 | [Create own workshop](https://nuevofoundation.org/) | Nuevo Foundation | 10 | Teach kids with fun coding scenarios |
-
 
 ## Credits
 * [@msandfor](https://github.com/msandfor) for starting the list.
@@ -184,25 +186,19 @@ MIT Licence
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+* [Yash2737](https://github.com/Yash2737)
+* [Newbietestuser](https://github.com/newbietestuser)
+* [Msandfor](https://github.com/msandfor)
+* [Beagandica](https://github.com/beagandica)
+* [Keatnuxsuo](https://github.com/Keatnuxsuo)
+* [Nessaamorgan](https://github.com/nessaamorgan)
+* [Amykapernick](https://github.com/amykapernick)
+* [Premkiran7](https://github.com/premkiran7)
+* [Sam0hack](https://github.com/sam0hack)
+* [Soumyajitnandi1](https://github.com/soumyajitnandi1)
+* [Muhmudrik](https://github.com/muhmudrik)
+* [TechGirl007](https://github.com/TechGirl007)
+* [jilloestreicher](https://github.com/jilloestreicher)
+* [LucasDamascenoS](https://github.com/LucasDamascenoS)
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/newbietestuser"><img src="https://avatars1.githubusercontent.com/u/71936510?v=4" width="100px;" alt=""/><br /><sub><b>TestAccount</b></sub></a><br /><a href="#content-newbietestuser" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=newbietestuser" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://techoutsiders.com.au"><img src="https://avatars1.githubusercontent.com/u/5952956?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Mei-Ling Sandford</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Code">💻</a> <a href="#content-msandfor" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=msandfor" title="Documentation">📖</a> <a href="#design-msandfor" title="Design">🎨</a> <a href="#example-msandfor" title="Examples">💡</a> <a href="https://github.com/msandfor/10-Easy-Steps/pulls?q=is%3Apr+reviewed-by%3Amsandfor" title="Reviewed Pull Requests">👀</a> <a href="#talk-msandfor" title="Talks">📢</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/mendezgandica"><img src="https://avatars1.githubusercontent.com/u/35856994?v=4" width="100px;" alt=""/><br /><sub><b>Bea</b></sub></a><br /><a href="#content-beagandica" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=beagandica" title="Documentation">📖</a> <a href="#tutorial-beagandica" title="Tutorials">✅</a> <a href="#talk-beagandica" title="Talks">📢</a> <a href="#translation-beagandica" title="Translation">🌍</a></td>
-    <td align="center"><a href="https://github.com/Keatnuxsuo"><img src="https://avatars2.githubusercontent.com/u/24486796?v=4" width="100px;" alt=""/><br /><sub><b>Jia Keatnuxsuo</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3AKeatnuxsuo" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=Keatnuxsuo" title="Documentation">📖</a> <a href="#maintenance-Keatnuxsuo" title="Maintenance">🚧</a> <a href="#tutorial-Keatnuxsuo" title="Tutorials">✅</a> <a href="#userTesting-Keatnuxsuo" title="User Testing">📓</a></td>
-    <td align="center"><a href="https://github.com/nessaamorgan"><img src="https://avatars2.githubusercontent.com/u/37296949?v=4" width="100px;" alt=""/><br /><sub><b>nessaamorgan</b></sub></a><br /><a href="#content-nessaamorgan" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=nessaamorgan" title="Documentation">📖</a> <a href="#maintenance-nessaamorgan" title="Maintenance">🚧</a> <a href="#tutorial-nessaamorgan" title="Tutorials">✅</a></td>
-    <td align="center"><a href="https://amyskapers.dev"><img src="https://avatars2.githubusercontent.com/u/15953185?v=4" width="100px;" alt=""/><br /><sub><b>Amy Kapernick</b></sub></a><br /><a href="#content-amykapernick" title="Content">🖋</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Code">💻</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=amykapernick" title="Documentation">📖</a> <a href="#talk-amykapernick" title="Talks">📢</a> <a href="#example-amykapernick" title="Examples">💡</a></td>
-    <td align="center"><a href="https://github.com/premkiran7"><img src="https://avatars3.githubusercontent.com/u/33180096?v=4" width="100px;" alt=""/><br /><sub><b>premkiran7</b></sub></a><br /><a href="https://github.com/msandfor/10-Easy-Steps/issues?q=author%3Apremkiran7" title="Bug reports">🐛</a> <a href="https://github.com/msandfor/10-Easy-Steps/commits?author=premkiran7" title="Documentation">📖</a></td>
-  </tr>
-</table>
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
